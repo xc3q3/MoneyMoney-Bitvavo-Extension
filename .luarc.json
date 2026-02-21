@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/vscode-lua/master/setting/schema.json",
+  "Lua.runtime.version": "Lua 5.2",
+  "Lua.workspace.checkThirdParty": false,
+  "Lua.type.weakNilCheck": true,
+  "Lua.type.weakUnionCheck": true,
+  "Lua.diagnostics.globals": [
+    "WebBanking",
+    "ProtocolWebBanking",
+    "AccountTypePortfolio",
+    "JSON",
+    "Connection",
+    "MM",
+    "LoginFailed",
+    "AccountTypeGiro"
+  ]
+}
